@@ -1,6 +1,6 @@
 **Two Tier Architecture**
 
-![alt text](https://trello.com/1/cards/6130a245c1793b46665364b3/attachments/6130a245c1793b46665364c0/download/2Tier_app_deployment_on_aws_diagram.png)
+![alt text](https://jspaint.app/#local:e5e0f83bf9f)
 
 
 1. App Instance
