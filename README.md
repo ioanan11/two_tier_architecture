@@ -1,6 +1,6 @@
 **Two Tier Architecture**
 
-![alt text](https://jspaint.app/#local:e5e0f83bf9f)
+![alt text](https://jspaint.app/#local:e5e0f83bf9f.png)
 
 
 1. App Instance
