@@ -1,5 +1,8 @@
 **Two Tier Architecture**
 
+![alt text](https://trello.com/1/cards/6130a245c1793b46665364b3/attachments/6130a245c1793b46665364c0/download/2Tier_app_deployment_on_aws_diagram.png)
+
+
 1. App Instance
 
 -launch instance
@@ -76,7 +79,7 @@ Finally, to start the app:
 	node seeds/seed.js
 	npm start
 
-**How to build AMIs*
+**How to build AMIs**
 
 Select instance > Actions > Image and templates > Create image
 
